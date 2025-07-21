@@ -56,6 +56,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.01,
+          "via_gap": 0.1,
+          "width": 0.1
         }
       ],
       "drc_exclusions": [],
@@ -187,7 +192,8 @@
       ],
       "track_widths": [
         0.0,
-        0.381
+        0.2,
+        0.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
